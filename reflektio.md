@@ -1,1 +1,7 @@
-dfghjk
+# Ryhmätyön reflektointi
+
+Ryhmätyössä tein itse suhteellisen vähän, keskityin enemmän hienosäätöön. Tein pohjan sekä duuniseurannalle että liiketoimintasuunnitelmalle, johon myös kirjoitin kilpailu-osion (mutta en "kilpailijat"). Toolchainissa lisäsin hieman informaatiota Visual Studio Code:sta. Pääasiassa taisin enemmän tehdä kieliopillista viilausta, lisäsin isoja kirjaimia ja pilkkuja.
+
+Omasta oppimisesta en ole varma. Oma työskentelytyylini tuntuu olevan enemmän tehdään jotain ja katsotaan mitä tapahtuu -tyylistä. Voi tosin olla, että perus git-komennot ovat jollain tapaa hallussa, tosin en käyttäisi niitä ilman Googlen ja lunttilappujen apua ihan vielä.
+
+En luonnostani ole ryhmätyöskentelijä, ja mitä isompi ryhmä sitä vaikeampi minun on toimia siinä. Ensimmäisten kertojen aikana käytännössä istuin vaitonaisena vieressä, kun ryhmän kolme muuta jäsentä tekivät töitä. En uskaltautunut avata suutani ennen kuin ryhmän koko putosi kolmeen minä mukaan luettuna (muut olivat ilmeisesti kipeinä), ja kun he alkoivat tuntua vähemmän tuomitsevilta. En ole varma, olivatko he oikeasti tuomitsevia. Olen aspergeri ja tähän liittyen huono sosiaalisissa tilanteissa, herkästi stressaantuva ja siihen liittyen teen herkästi yliampuvia arvioita ja olen kaiken lisäksi todella huono lukemaan ihmisiä.
